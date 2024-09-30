@@ -35,16 +35,6 @@
 			path = Moonshot;
 			sourceTree = "<group>";
 		};
-		41AA84302CA6DD8C005BFD03 /* MoonshotTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MoonshotTests;
-			sourceTree = "<group>";
-		};
-		41AA843A2CA6DD8C005BFD03 /* MoonshotUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MoonshotUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				41AA841F2CA6DD8A005BFD03 /* Moonshot */,
-				41AA84302CA6DD8C005BFD03 /* MoonshotTests */,
-				41AA843A2CA6DD8C005BFD03 /* MoonshotUITests */,
 				41AA841E2CA6DD8A005BFD03 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				41AA842F2CA6DD8C005BFD03 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				41AA84302CA6DD8C005BFD03 /* MoonshotTests */,
-			);
 			name = MoonshotTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				41AA84392CA6DD8C005BFD03 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				41AA843A2CA6DD8C005BFD03 /* MoonshotUITests */,
 			);
 			name = MoonshotUITests;
 			packageProductDependencies = (
