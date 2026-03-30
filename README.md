@@ -44,9 +44,9 @@
 
 ## 📸 Скриншоты
 
-| Главный экран (Сетка) | Детали миссии | Страница астронавта |
+| Главный экран | Детали миссии | Страница астронавта |
 | :---: | :---: | :---: |
-| ![Grid View](https://via.placeholder.com/200x400?text=Grid+UI) | ![Mission Details](https://via.placeholder.com/200x400?text=Details+UI) | ![Astronaut](https://via.placeholder.com/200x400?text=Profile+UI) |
+| ![Главный экран](Moonshot.xcodeproj/Moonshot_1.png) | ![Детали миссии](Moonshot.xcodeproj/Moonshot_2.png) | ![Астронавт](Moonshot.xcodeproj/Moonshot_4.png) |
 
 *(Примечание: Замените заглушки на реальные скриншоты вашего приложения)*
 
